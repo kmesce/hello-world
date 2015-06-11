@@ -1,3 +1,3 @@
-# hello-world
-## welcome
-Start of something new.
+# ello-world
+## Welcome
+This is the start of something new.
